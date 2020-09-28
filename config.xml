@@ -1,0 +1,199 @@
+<ConfigData xmlns="http://xml.avaya.com/endpointAPI">
+<version>1</version>
+<parameter>
+<name>CurrentSkin</name>
+<value>1</value>
+</parameter>
+<parameter>
+<name>UserPreferredLanguage</name>
+<value>English</value>
+</parameter>
+<parameter>
+<name>LanguageInUse</name>
+<value>English</value>
+</parameter>
+<parameter>
+<name>OwnIPAddress</name>
+<value>172.29.16.1</value>
+</parameter>
+<parameter>
+<name>ReUseIPAddress</name>
+<value>172.30.16.1</value>
+</parameter>
+<parameter>
+<name>SipControllerList</name>
+<value>172.16.16.161:5060;transport=udp</value>
+</parameter>
+<parameter>
+<name>SipDomain</name>
+<value>vikstarsp.br</value>
+</parameter>
+<parameter>
+<name>DialPlanCountryCode</name>
+<value></value>
+</parameter>
+<parameter>
+<name>DialPlanInternationalAccessCode</name>
+<value></value>
+</parameter>
+<parameter>
+<name>DialPlanLongDistanceAccessCode</name>
+<value></value>
+</parameter>
+<parameter>
+<name>DialPlanOutsideLineAccessCode</name>
+<value></value>
+</parameter>
+<parameter>
+<name>SipSignalTransportType</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>VisitingUserPrimaryPhone</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>SipUserAccount</name>
+<value>6165@vikstarsp.br</value>
+</parameter>
+<parameter>
+<name>SipUserId</name>
+<value>6165</value>
+</parameter>
+<parameter>
+<name>SipUserPassword</name>
+<value>18hn0e0h0o0y0i1q</value>
+</parameter>
+<parameter>
+<name>PrevSipUserAccount</name>
+<value>6165@vikstarsp.br</value>
+</parameter>
+<parameter>
+<name>AudioDeviceList</name>
+<value><AudioDeviceList>
+<RingViaSecondDevice>true</RingViaSecondDevice>
+<RingingDeviceEnabled>true</RingingDeviceEnabled>
+<playback>
+<device>
+<guid>Alto-falantes (Realtek High Def</guid>
+<name>Alto-falantes (Realtek High Def</name>
+<volume>50</volume>
+<state>false</state>
+<available>false</available>
+</device>
+<device>
+<guid>{0.0.0.00000000}.{ac37f6d2-6388-47f8-a496-6fe9a7e597fe}</guid>
+<name>Alto-falantes (Ninja USB Mono by Jabra)</name>
+<volume>50</volume>
+<state>true</state>
+<available>true</available>
+</device>
+<device>
+<guid>Áudio Remoto</guid>
+<name>Áudio Remoto</name>
+<volume>50</volume>
+<state>false</state>
+<available>false</available>
+</device>
+<device>
+<guid>{0.0.0.00000000}.{437362e6-34f0-40e0-9d71-c6b4ae753d6d}</guid>
+<name>Alto-falantes (2- Jabra LINK 230)</name>
+<volume>50</volume>
+<state>false</state>
+<available>false</available>
+</device>
+<device>
+<guid>{0.0.0.00000000}.{eed6edcb-5cdb-43a2-9927-50949bd9381d}</guid>
+<name>Alto-falantes (Realtek High Definition Audio)</name>
+<volume>50</volume>
+<state>false</state>
+<available>true</available>
+</device>
+<device>
+<guid>{3.0.0.00000001}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}</guid>
+<name>Áudio Remoto</name>
+<volume>50</volume>
+<state>false</state>
+<available>false</available>
+</device>
+</playback>
+<microphone>
+<device>
+<guid>{0.0.1.00000000}.{17d1d3ec-39d9-4e83-8504-60518b88f978}</guid>
+<name>Microfone (Ninja USB Mono by Jabra)</name>
+<volume>50</volume>
+<state>true</state>
+<available>true</available>
+</device>
+<device>
+<guid>{0.0.1.00000000}.{15341ea4-9a1e-4b8d-8868-2f2a4c8d75f7}</guid>
+<name>Microfone (2- Jabra LINK 230)</name>
+<volume>50</volume>
+<state>false</state>
+<available>false</available>
+</device>
+</microphone>
+<ringer>
+<device>
+<guid>{0.0.0.00000000}.{437362e6-34f0-40e0-9d71-c6b4ae753d6d}</guid>
+<name>Alto-falantes (2- Jabra LINK 230)</name>
+<volume>50</volume>
+<state>false</state>
+<available>false</available>
+</device>
+<device>
+<guid>{0.0.0.00000000}.{eed6edcb-5cdb-43a2-9927-50949bd9381d}</guid>
+<name>Alto-falantes (Realtek High Definition Audio)</name>
+<volume>50</volume>
+<state>false</state>
+<available>true</available>
+</device>
+<device>
+<guid>Áudio Remoto</guid>
+<name>Áudio Remoto</name>
+<volume>50</volume>
+<state>false</state>
+<available>false</available>
+</device>
+<device>
+<guid>{3.0.0.00000001}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}</guid>
+<name>Áudio Remoto</name>
+<volume>50</volume>
+<state>false</state>
+<available>false</available>
+</device>
+<device>
+<guid>{0.0.0.00000000}.{ac37f6d2-6388-47f8-a496-6fe9a7e597fe}</guid>
+<name>Alto-falantes (Ninja USB Mono by Jabra)</name>
+<volume>50</volume>
+<state>true</state>
+<available>true</available>
+</device>
+<device>
+<guid>Alto-falantes (Realtek High Def</guid>
+<name>Alto-falantes (Realtek High Def</name>
+<volume>50</volume>
+<state>false</state>
+<available>false</available>
+</device>
+</ringer>
+</AudioDeviceList>
+</value>
+</parameter>
+<parameter>
+<name>DialPlanNationalPhoneNumbLengthList</name>
+<value></value>
+</parameter>
+<parameter>
+<name>DialPlanExtensionLengthList</name>
+<value></value>
+</parameter>
+<parameter>
+<name>VideoRtpPortLow</name>
+<value>5024</value>
+</parameter>
+<parameter>
+<name>VideoRtpPortRange</name>
+<value>20</value>
+</parameter>
+</ConfigData>
